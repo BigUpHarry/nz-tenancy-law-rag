@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Corpus + derived artefacts (reproducible via `make corpus`)
+data/raw/
+data/processed/*
+!data/processed/manifest.json
+data/index/
+.cache/embeddings/
+
+# Eval run artefacts (summaries ARE committed, raw traces are not)
+results/runs/*/traces.jsonl
+results/runs/*/*.raw.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Secrets -- never commit. Use .env.example as the template.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# Embeddings, indexes and vector stores (all reproducible from the corpus)
+*.npy
+*.npz
+*.faiss
+*.index
+*.sqlite
+*.sqlite3
+*.duckdb
+chroma/
+.chroma/
+qdrant_storage/
+
+# Caches
+.cache/
+.ruff_cache/
+.mypy_cache/

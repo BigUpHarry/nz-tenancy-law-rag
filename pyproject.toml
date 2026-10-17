@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tenancy-rag"
+version = "0.1.0"
+description = "A retrieval-augmented QA system over New Zealand residential tenancy law, with a real evaluation harness."
+requires-python = ">=3.11"
+dependencies = ["numpy>=2.0", "requests>=2.32", "PyYAML>=6.0", "rich>=13.7"]
+
+[project.scripts]
+tenancy-rag = "tenancy_rag.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
