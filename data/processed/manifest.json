@@ -1,0 +1,147 @@
+{
+  "corpus_version": "nz-2026-10",
+  "jurisdiction": "New Zealand",
+  "publisher": "New Zealand Parliamentary Counsel Office (legislation.govt.nz)",
+  "licence": "Crown copyright; CC BY 4.0",
+  "source_count": 5,
+  "total_bytes": 1894160,
+  "as_at_range": [
+    "2020-08-11",
+    "2024-12-17",
+    "2025-07-02",
+    "2025-09-25",
+    "2025-12-01"
+  ],
+  "sources": [
+    {
+      "doc_id": "act/1986/120",
+      "title": "Residential Tenancies Act 1986",
+      "short": "RTA 1986",
+      "doc_type": "act",
+      "operative": true,
+      "xml_url": "https://www.legislation.govt.nz/act/public/1986/120/en/latest.xml",
+      "html_url": "https://www.legislation.govt.nz/act/public/1986/0120/latest/whole.html",
+      "path": "data/raw/act_1986_120.xml",
+      "bytes": 1295112,
+      "sha256": "e22b4ac21864f9f9d5b954f74c998e30a4a468b012539dbab239300aeef385e4",
+      "as_at": "2025-12-01",
+      "reprint_date": "2025-12-01",
+      "assent_date": "1986-12-17",
+      "xml_title": "Residential Tenancies Act 1986",
+      "retrieved_on": "2026-10-17",
+      "incorporates": []
+    },
+    {
+      "doc_id": "reg/2019/88",
+      "title": "Residential Tenancies (Healthy Homes Standards) Regulations 2019",
+      "short": "HHS 2019",
+      "doc_type": "regulation",
+      "operative": true,
+      "xml_url": "https://www.legislation.govt.nz/secondary-legislation/pco-drafted/2019/88/en/latest.xml",
+      "html_url": "https://www.legislation.govt.nz/regulation/public/2019/0088/latest/whole.html",
+      "path": "data/raw/reg_2019_88.xml",
+      "bytes": 206610,
+      "sha256": "a81891c3920cf29ccecbcfa55bfcc5ea297f13561259120324a6b13ce9d8c398",
+      "as_at": "2025-09-25",
+      "reprint_date": "2025-09-25",
+      "assent_date": null,
+      "xml_title": "Residential Tenancies (Healthy Homes Standards) Regulations 2019",
+      "retrieved_on": "2026-10-17",
+      "incorporates": [
+        "Residential Tenancies (Healthy Homes Standards) Amendment Regulations 2025 (SL 2025/181): regulations 4–7",
+        "Resource Management (Natural and Built Environment and Spatial Planning Repeal and Interim Fast-track Consenting) Act 2023 (2023 No 68): section 6",
+        "Residential Tenancies (Healthy Homes Standards) Amendment Act 2022 (2022 No 63): Part 2 subpart 1",
+        "Residential Tenancies (Healthy Homes Standards) Amendment Regulations 2022 (SL 2022/109)",
+        "Residential Tenancies Amendment Act 2020 (2020 No 59): section 82",
+        "Residential Tenancies (Healthy Homes Standards) Amendment Regulations 2020 (LI 2020/101)"
+      ]
+    },
+    {
+      "doc_id": "reg/2016/128",
+      "title": "Residential Tenancies (Smoke Alarms) Regulations 2016",
+      "short": "SAR 2016",
+      "doc_type": "regulation",
+      "operative": true,
+      "xml_url": "https://www.legislation.govt.nz/secondary-legislation/pco-drafted/2016/128/en/latest.xml",
+      "html_url": "https://www.legislation.govt.nz/regulation/public/2016/0128/latest/whole.html",
+      "path": "data/raw/reg_2016_128.xml",
+      "bytes": 67780,
+      "sha256": "f86a2e6e09b558656df9fdbf3884d295bff9ed630bb8ca58a81fc74eed49b9a4",
+      "as_at": "2025-07-02",
+      "reprint_date": "2025-07-02",
+      "assent_date": null,
+      "xml_title": "Residential Tenancies (Smoke Alarms) Regulations 2016",
+      "retrieved_on": "2026-10-17",
+      "incorporates": [
+        "Residential Tenancies (Smoke Alarms and Insulation) Amendment Regulations 2016 (LI 2016/219)",
+        "Residential Tenancies (Smoke Alarms) Regulations 2016 (LI 2016/128): Part 2 subparts 3 , 4"
+      ]
+    },
+    {
+      "doc_id": "act/2024/52",
+      "title": "Residential Tenancies Amendment Act 2024",
+      "short": "RTAA 2024",
+      "doc_type": "amendment",
+      "operative": false,
+      "xml_url": "https://www.legislation.govt.nz/act/public/2024/52/en/latest.xml",
+      "html_url": "https://www.legislation.govt.nz/act/public/2024/0052/latest/whole.html",
+      "path": "data/raw/act_2024_52.xml",
+      "bytes": 90336,
+      "sha256": "71d645a6c7e4fda2aedeab60020677647873defff29d9f23ae67356d2df5cfc7",
+      "as_at": "2024-12-17",
+      "reprint_date": null,
+      "assent_date": "2024-12-17",
+      "xml_title": "Residential Tenancies Amendment Act 2024",
+      "retrieved_on": "2026-10-17",
+      "incorporates": []
+    },
+    {
+      "doc_id": "act/2020/59",
+      "title": "Residential Tenancies Amendment Act 2020",
+      "short": "RTAA 2020",
+      "doc_type": "amendment",
+      "operative": false,
+      "xml_url": "https://www.legislation.govt.nz/act/public/2020/59/en/latest.xml",
+      "html_url": "https://www.legislation.govt.nz/act/public/2020/0059/latest/whole.html",
+      "path": "data/raw/act_2020_59.xml",
+      "bytes": 234322,
+      "sha256": "3b3ab8be7a5239d12d9eb1af48f3f2db53562fb718bafeab10554af4a63d2d67",
+      "as_at": "2020-08-11",
+      "reprint_date": null,
+      "assent_date": "2020-08-11",
+      "xml_title": "Residential Tenancies Amendment Act 2020",
+      "retrieved_on": "2026-10-17",
+      "incorporates": []
+    }
+  ],
+  "corpus_stats": {
+    "provisions": 647,
+    "total_chars": 612338,
+    "by_doc": {
+      "HHS 2019": 69,
+      "RTA 1986": 373,
+      "RTAA 2020": 99,
+      "RTAA 2024": 60,
+      "SAR 2016": 46
+    },
+    "by_status": {
+      "in_force": 594,
+      "repealed": 28,
+      "revoked": 25
+    },
+    "operative": 435,
+    "amendment_decoys": 159,
+    "repealed": 53,
+    "median_chars": 545,
+    "p95_chars": 3002,
+    "max_chars": 18901,
+    "empty_headings": 0,
+    "as_at_range": [
+      "2020-08-11",
+      "2024-12-17",
+      "2025-07-02",
+      "2025-09-25",
+      "2025-12-01"
+    ]
+  }
+}
